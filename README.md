@@ -29,8 +29,7 @@ project/
 
 ## 📷 UI Preview
 
-![Preview](https://imgs.search.brave.com/9frGX_yZ7fz-Z0W--iitzVQJa5-QLOuMvSSENae1qlw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzExLzkyLzAyLzkx/LzM2MF9GXzExOTIw/MjkxNzNfVDNudEVx/YkxjR1pzZjdKNVVm/WHA0TVh0VW9vRXh1/S2QuanBn)
-
+[![To-Do Preview](https://github.com/rvsony761/To_Do_List/blob/ace45b10db82512b2346015396e900600bdd8f71/To%20do%20List%201st.jpg)
 ## 💡 How to Run
 
 1. Clone the repository or download the project files.
