@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="\src\output.css">
+</head>
+<body class="bg-blue-500 min-h-screen overflow-x-hidden flex justify-center ">
+    <div class="w-full max-w-md bg-white mt-8 rounded-2xl p-5  max-h-[500px] overflow-y-auto">
+        <div>
+        <h2 class="font-bold m-5 flex text-xl ">To Do List
+        <img src="https://imgs.search.brave.com/9frGX_yZ7fz-Z0W--iitzVQJa5-QLOuMvSSENae1qlw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzExLzkyLzAyLzkx/LzM2MF9GXzExOTIw/MjkxNzNfVDNudEVx/YkxjR1pzZjdKNVVm/WHA0TVh0VW9vRXh1/S2QuanBn" alt="" class="h-8 w-9 -mt-1"> </h2>
+        </div>
+        <div >
+            <input type="text" id="input-box" placeholder="Add a task..." class="flex-1 px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400 ml-5 "/>
+            <button onclick="addTask()" class="border-2 px-2 py-1 bg-amber-400 border-amber-400 rounded-2xl ml-8 hover:bg-amber-300 font-semibold ">Add now</button>
+        </div>
+        <div>
+        <ul id="li" class="space-y-1 mt-2.5  ">
+          <!-- <li class="flex items-center space-x-2 ">
+            <div class="h-3 w-3 border-2 border-gray-400 rounded-full flex items-center justify-center check-circle ml-5 "></div>
+            <span>Task 1</span>
+          </li>
+          <li class="flex items-center space-x-2">
+            <div class="h-3 w-3 border-2 border-gray-400 rounded-full flex items-center justify-center check-circle ml-5"></div>
+            <span>Task 2</span>
+          </li>
+          <li class="flex items-center space-x-2">
+            <div class="h-3 w-3 border-2 border-gray-400 rounded-full flex items-center justify-center check-circle ml-5"></div>
+            <span>Task 3</span>
+          </li> -->
+        </ul>
+</div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
