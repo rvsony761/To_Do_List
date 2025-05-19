@@ -29,7 +29,10 @@ project/
 
 ## 📷 UI Preview
 
-[![To-Do Preview](https://github.com/rvsony761/To_Do_List/blob/ace45b10db82512b2346015396e900600bdd8f71/To%20do%20List%201st.jpg)
+![To-Do Preview](https://github.com/rvsony761/To_Do_List/blob/ace45b10db82512b2346015396e900600bdd8f71/To%20do%20List%201st.jpg)
+
+![Task Added](https://github.com/rvsony761/To_Do_List/blob/00ed8434315c3907fb6c6a0bf023179454154466/to%20do%20list%202nd.jpg)
+
 ## 💡 How to Run
 
 1. Clone the repository or download the project files.
